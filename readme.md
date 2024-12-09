@@ -1,13 +1,8 @@
 # TESTE DE ESTÁGIO FRONT-END HTML, CSS E JAVASCRIPT
 > link do projeto Adobe XD: https://xd.adobe.com/view/a44042ef-99e2-46fa-545c-ce4f6686b811-d271/?fullscreen
 
-# IMPORTANTE
-```sh 
-Prazo de entrega: 12/03/2021
-```
-
 # REGRAS
- - Codificar o layout em CSS, HTML e Javascript
+ - Codificar o layout em React ou Next, TailwindCss e Typescript.
  - Usar font montsserat (google fonts)
  - Usar as cores utilizadas no layout
  ```sh
@@ -19,7 +14,7 @@ Prazo de entrega: 12/03/2021
  - É importante o layout ser responsivo.
 
 # CENÁRIO
- - Um cliente precisa criar seu site com as tecnologias boostrap 4 e javascript.
+ - Um cliente precisa criar seu site.
 
 # DEVERES
  - Header responsivo
